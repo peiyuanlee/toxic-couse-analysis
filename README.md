@@ -1,1 +1,1 @@
-# toxic-couse-analysis
+# Toxic Course Combination Analysis
